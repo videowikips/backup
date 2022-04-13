@@ -10,7 +10,7 @@
   "author": "Hassan Amin ( h.m.amin994@gmail.com )",
   "license": "GPL-3.0-only",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "aws-sdk": "^2.391.0",
     "cron": "^1.6.0",
     "dotenv": "^6.2.0",
